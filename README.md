@@ -1,6 +1,6 @@
 # trae-friends-events
 
-**TRAE Friends** 是由 **TRAE Fellow** 发起的城市开发者社区活动，  
+**TRAE Friends** 是由 **TRAE Fellow** 发起的城市社区活动，
 面向本地开发者与 AI 爱好者，聚焦 **AI 编程在真实场景中的实践与交流**。
 
 ---
