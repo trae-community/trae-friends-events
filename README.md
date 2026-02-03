@@ -1,5 +1,6 @@
 # trae-friends-events
 
+
 **TRAE Friends** 是由 **TRAE Fellow** 发起的城市社区活动，  
 面向本地开发者与 AI 爱好者，聚焦 **AI 编程在真实场景中的实践与交流**。
 
@@ -33,6 +34,10 @@
 
 ---
 
+## 📸 Community moments
+
+---
+
 ## 🛠️ Maintenance
 
 本仓库由 **TRAE Friends 社区侧统一维护与管理**。  
@@ -41,4 +46,6 @@
 ---
 
 > **Ship Faster with TRAE — from real practice.**
+
+
 
