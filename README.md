@@ -26,9 +26,14 @@
 
 `trae-friends-events` 用于沉淀 TRAE Friends 的**城市活动客观记录**，包括：
 
-- 📝 活动报名入口链接
-- 🔗 活动回顾的推文链接
-- 📷 活动现场照片
+📝 活动报名入口：
+- https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink
+
+🔗 活动回顾推文：
+- 11月活动回顾：https://mp.weixin.qq.com/s/mIrXcqA6v-HNmuRL2RqpQw
+- 10月活动回顾：https://mp.weixin.qq.com/s/Y7KjMJmfuMNUy3S1X0k-oQ
+- 09月活动回顾：https://mp.weixin.qq.com/s/rPCFkkwJniEexfrbLrLLPQ
+
 
 这是一个持续更新、由社区共同维护的仓库。
 
