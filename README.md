@@ -24,7 +24,7 @@
 
 ## 📁 About this repo
 
-`trae-friends-events` 用于沉淀 TRAE Friends 的**城市活动客观记录**，包括：
+`trae-friends-events` 用于沉淀 TRAE Friends 的**城市活动客观记录**：
 
 📝 活动报名入口：
 - https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink
@@ -34,12 +34,7 @@
 - 10月活动回顾：https://mp.weixin.qq.com/s/Y7KjMJmfuMNUy3S1X0k-oQ
 - 09月活动回顾：https://mp.weixin.qq.com/s/rPCFkkwJniEexfrbLrLLPQ
 
-
 这是一个持续更新、由社区共同维护的仓库。
-
----
-
-## 📸 Community moments
 
 ---
 
