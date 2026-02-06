@@ -69,53 +69,53 @@
 
 <details open><summary><b>2月</b></summary>
 
-| 日期 | 地点 | 活动类型 | 活动名称 |
-| :--- | :--- | :--- | :--- |
-| 02.09 | <img src="https://img.shields.io/badge/合肥-Hefei-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@合肥](https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp) |
-| 02.08 | <img src="https://img.shields.io/badge/中山-Zhongshan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@中山](https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp) |
-| 02.07 | <img src="https://img.shields.io/badge/东莞-Dongguan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@东莞](https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp) |
-| 02.07 | <img src="https://img.shields.io/badge/商丘-Shangqiu-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@商丘](https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp) |
-| 02.07 | <img src="https://img.shields.io/badge/清远-Qingyuan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@清远](https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp) |
-| 02.07 | <img src="https://img.shields.io/badge/唐山-Tangshan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@唐山](https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp) |
-| 02.07 | <img src="https://img.shields.io/badge/济南-Jinan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@济南](https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp) |
-| 02.05 | <img src="https://img.shields.io/badge/北京-Beijing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@北京](#) |
-| 02.01 | <img src="https://img.shields.io/badge/廊坊-Langfang-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@廊坊](#) |
-| 02.01 | <img src="https://img.shields.io/badge/太原-Taiyuan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@太原](#) |
+| 举办日期 | 活动类型 | 城市 |
+| :--- | :--- | :--- |
+| 02.09 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@合肥 |
+| 02.08 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@中山 |
+| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@东莞 |
+| 02.07 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@商丘 |
+| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@清远 |
+| 02.07 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@唐山 |
+| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@济南 |
+| 02.05 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@北京 |
+| 02.01 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@廊坊 |
+| 02.01 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@太原 |
 
 
 </details>
 <details><summary><b>1月</b></summary>
 
-| 日期 | 地点 | 活动类型 | 活动名称 |
-| :--- | :--- | :--- | :--- |
-| 01.31 | <img src="https://img.shields.io/badge/无锡-Wuxi-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@无锡](#) |
-| 01.31 | <img src="https://img.shields.io/badge/郑州-Zhengzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Open Mic-FFD54F?style=flat-square"> | [TRAE Friends@郑州](#) |
-| 01.31 | <img src="https://img.shields.io/badge/沈阳-Shenyang-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@沈阳](#) |
-| 01.31 | <img src="https://img.shields.io/badge/武汉-Wuhan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@武汉](#) |
-| 01.31 | <img src="https://img.shields.io/badge/上海-Shanghai-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@上海](#) |
-| 01.25 | <img src="https://img.shields.io/badge/佛山-Foshan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@佛山](#) |
-| 01.25 | <img src="https://img.shields.io/badge/惠州-Huizhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@惠州](#) |
-| 01.25 | <img src="https://img.shields.io/badge/哈尔滨-Harbin-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@哈尔滨](#) |
-| 01.25 | <img src="https://img.shields.io/badge/深圳-Shenzhen-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | [TRAE Friends@深圳](#) |
-| 01.24 | <img src="https://img.shields.io/badge/沈阳-Shenyang-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | [TRAE Friends@沈阳](#) |
-| 01.24 | <img src="https://img.shields.io/badge/南宁-Nanning-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@南宁](#) |
-| 01.24 | <img src="https://img.shields.io/badge/南京-Nanjing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@南京](#) |
-| 01.23 | <img src="https://img.shields.io/badge/广州-Guangzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@广州](#) |
-| 01.18 | <img src="https://img.shields.io/badge/东莞-Dongguan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@东莞](#) |
-| 01.18 | <img src="https://img.shields.io/badge/西宁-Xining-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@西宁](#) |
-| 01.17 | <img src="https://img.shields.io/badge/厦门-Xiamen-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@厦门](#) |
-| 01.17 | <img src="https://img.shields.io/badge/百色-Baise-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@百色](#) |
-| 01.17 | <img src="https://img.shields.io/badge/成都-Chengdu-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@成都](#) |
-| 01.17 | <img src="https://img.shields.io/badge/石家庄-Shijiazhuang-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@石家庄](#) |
-| 01.17 | <img src="https://img.shields.io/badge/金华-Jinhua-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@金华](#) |
-| 01.11 | <img src="https://img.shields.io/badge/北京-Beijing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@北京](#) |
-| 01.11 | <img src="https://img.shields.io/badge/长沙-Changsha-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@长沙](#) |
-| 01.11 | <img src="https://img.shields.io/badge/杭州-Hangzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@杭州](#) |
-| 01.11 | <img src="https://img.shields.io/badge/合肥-Hefei-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@合肥](#) |
-| 01.11 | <img src="https://img.shields.io/badge/中山-Zhongshan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@中山](#) |
-| 01.10 | <img src="https://img.shields.io/badge/宁波-Ningbo-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@宁波](#) |
-| 01.10 | <img src="https://img.shields.io/badge/济南-Jinan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@济南](#) |
-| 01.10 | <img src="https://img.shields.io/badge/常州-Changzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@常州](#) |
+| 举办日期 | 活动类型 | 城市 |
+| :--- | :--- | :--- |
+| 01.31 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@无锡 |
+| 01.31 | <img src="https://img.shields.io/badge/Open Mic-FFD54F?style=flat-square"> | TRAE Friends@郑州 |
+| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@沈阳 |
+| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@武汉 |
+| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@上海 |
+| 01.25 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@佛山 |
+| 01.25 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@惠州 |
+| 01.25 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@哈尔滨 |
+| 01.25 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@深圳 |
+| 01.24 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@沈阳 |
+| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@南宁 |
+| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@南京 |
+| 01.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@广州 |
+| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@东莞 |
+| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@西宁 |
+| 01.17 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@厦门 |
+| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@百色 |
+| 01.17 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@成都 |
+| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@石家庄 |
+| 01.17 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@金华 |
+| 01.11 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@北京 |
+| 01.11 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@长沙 |
+| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@杭州 |
+| 01.11 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@合肥 |
+| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@中山 |
+| 01.10 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@宁波 |
+| 01.10 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@济南 |
+| 01.10 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@常州 |
 
 </details>
 </div>
@@ -135,88 +135,88 @@
 
 <details><summary><b>12月</b></summary>
 
-| 日期 | 地点 | 活动类型 | 活动名称 |
-| :--- | :--- | :--- | :--- |
-| 12.28 | <img src="https://img.shields.io/badge/兰州-Lanzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Outdoor Exploration-795548?style=flat-square"> | [TRAE Friends@兰州](#) |
-| 12.28 | <img src="https://img.shields.io/badge/天津-Tianjin-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@天津](#) |
-| 12.28 | <img src="https://img.shields.io/badge/香港-Hong Kong-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@香港](#) |
-| 12.28 | <img src="https://img.shields.io/badge/重庆-Chongqing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@重庆](#) |
-| 12.27 | <img src="https://img.shields.io/badge/扬州-Yangzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@扬州](#) |
-| 12.27 | <img src="https://img.shields.io/badge/东莞-Dongguan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@东莞](#) |
-| 12.27 | <img src="https://img.shields.io/badge/南昌-Nanchang-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@南昌](#) |
-| 12.27 | <img src="https://img.shields.io/badge/西安-Xian-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@西安](#) |
-| 12.27 | <img src="https://img.shields.io/badge/三亚-Sanya-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Tea Talk-4CAF50?style=flat-square"> | [TRAE Friends@三亚](#) |
-| 12.27 | <img src="https://img.shields.io/badge/郑州-Zhengzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@郑州](#) |
-| 12.27 | <img src="https://img.shields.io/badge/昆明-Kunming-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@昆明](#) |
-| 12.27 | <img src="https://img.shields.io/badge/乌鲁木齐-Urumqi-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@乌鲁木齐](#) |
-| 12.14 | <img src="https://img.shields.io/badge/北京-Beijing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@北京](#) |
-| 12.13 | <img src="https://img.shields.io/badge/长春-Changchun-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@长春](#) |
+| 举办日期 | 活动类型 | 城市 |
+| :--- | :--- | :--- |
+| 12.28 | <img src="https://img.shields.io/badge/Outdoor Exploration-795548?style=flat-square"> | TRAE Friends@兰州 |
+| 12.28 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@天津 |
+| 12.28 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@香港 |
+| 12.28 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@重庆 |
+| 12.27 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@扬州 |
+| 12.27 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@东莞 |
+| 12.27 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@南昌 |
+| 12.27 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@西安 |
+| 12.27 | <img src="https://img.shields.io/badge/Tea Talk-4CAF50?style=flat-square"> | TRAE Friends@三亚 |
+| 12.27 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@郑州 |
+| 12.27 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@昆明 |
+| 12.27 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@乌鲁木齐 |
+| 12.14 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@北京 |
+| 12.13 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@长春 |
 
 
 </details>
 <details><summary><b>11月</b></summary>
 
-| 日期 | 地点 | 活动类型 | 活动名称 |
-| :--- | :--- | :--- | :--- |
-| 11.30 | <img src="https://img.shields.io/badge/武汉-Wuhan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@武汉](#) |
-| 11.30 | <img src="https://img.shields.io/badge/深圳-Shenzhen-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@深圳](#) |
-| 11.30 | <img src="https://img.shields.io/badge/南京-Nanjing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@南京](#) |
-| 11.23 | <img src="https://img.shields.io/badge/石家庄-Shijiazhuang-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@石家庄](#) |
-| 11.23 | <img src="https://img.shields.io/badge/东莞-Dongguan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@东莞](#) |
-| 11.23 | <img src="https://img.shields.io/badge/温州-Wenzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@温州](#) |
-| 11.23 | <img src="https://img.shields.io/badge/福州-Fuzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@福州](#) |
-| 11.23 | <img src="https://img.shields.io/badge/兰州-Lanzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@兰州](#) |
-| 11.23 | <img src="https://img.shields.io/badge/佛山-Foshan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@佛山](#) |
-| 11.22 | <img src="https://img.shields.io/badge/昆明-Kunming-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@昆明](#) |
-| 11.22 | <img src="https://img.shields.io/badge/广州-Guangzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@广州](#) |
-| 11.22 | <img src="https://img.shields.io/badge/苏州-Suzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@苏州](#) |
-| 11.22 | <img src="https://img.shields.io/badge/大连-Dalian-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@大连](#) |
-| 11.22 | <img src="https://img.shields.io/badge/宁波-Ningbo-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@宁波](#) |
-| 11.22 | <img src="https://img.shields.io/badge/珠海-Zhuhai-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@珠海](#) |
-| 11.22 | <img src="https://img.shields.io/badge/桂林-Guilin-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@桂林](#) |
-| 11.22 | <img src="https://img.shields.io/badge/厦门-Xiamen-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@厦门](#) |
-| 11.22 | <img src="https://img.shields.io/badge/沈阳-Shenyang-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@沈阳](#) |
-| 11.16 | <img src="https://img.shields.io/badge/西宁-Xining-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@西宁](#) |
-| 11.16 | <img src="https://img.shields.io/badge/长沙-Changsha-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@长沙](#) |
-| 11.16 | <img src="https://img.shields.io/badge/青岛-Qingdao-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@青岛](#) |
-| 11.15 | <img src="https://img.shields.io/badge/合肥-Hefei-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@合肥](#) |
-| 11.15 | <img src="https://img.shields.io/badge/遵义-Zunyi-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@遵义](#) |
-| 11.15 | <img src="https://img.shields.io/badge/成都-Chengdu-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@成都](#) |
-| 11.15 | <img src="https://img.shields.io/badge/哈尔滨-Harbin-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@哈尔滨](#) |
-| 11.15 | <img src="https://img.shields.io/badge/金华-Jinhua-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@金华](#) |
-| 11.15 | <img src="https://img.shields.io/badge/西安-Xian-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@西安](#) |
-| 11.15 | <img src="https://img.shields.io/badge/郑州-Zhengzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@郑州](#) |
-| 11.15 | <img src="https://img.shields.io/badge/济南-Jinan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@济南](#) |
-| 11.14 | <img src="https://img.shields.io/badge/上海-Shanghai-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | [TRAE Friends@上海](#) |
+| 举办日期 | 活动类型 | 城市 |
+| :--- | :--- | :--- |
+| 11.30 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@武汉 |
+| 11.30 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@深圳 |
+| 11.30 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@南京 |
+| 11.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@石家庄 |
+| 11.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@东莞 |
+| 11.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@温州 |
+| 11.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@福州 |
+| 11.23 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@兰州 |
+| 11.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@佛山 |
+| 11.22 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@昆明 |
+| 11.22 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@广州 |
+| 11.22 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@苏州 |
+| 11.22 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@大连 |
+| 11.22 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@宁波 |
+| 11.22 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@珠海 |
+| 11.22 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@桂林 |
+| 11.22 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@厦门 |
+| 11.22 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@沈阳 |
+| 11.16 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@西宁 |
+| 11.16 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@长沙 |
+| 11.16 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@青岛 |
+| 11.15 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@合肥 |
+| 11.15 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@遵义 |
+| 11.15 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@成都 |
+| 11.15 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@哈尔滨 |
+| 11.15 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@金华 |
+| 11.15 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@西安 |
+| 11.15 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@郑州 |
+| 11.15 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@济南 |
+| 11.14 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@上海 |
 
 
 </details>
 <details><summary><b>10月</b></summary>
 
-| 日期 | 地点 | 活动类型 | 活动名称 |
-| :--- | :--- | :--- | :--- |
-| 10.25 | <img src="https://img.shields.io/badge/大连-Dalian-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@大连](#) |
-| 10.25 | <img src="https://img.shields.io/badge/昆明-Kunming-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@昆明](#) |
-| 10.25 | <img src="https://img.shields.io/badge/南京-Nanjing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@南京](#) |
-| 10.19 | <img src="https://img.shields.io/badge/苏州-Suzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@苏州](#) |
-| 10.19 | <img src="https://img.shields.io/badge/成都-Chengdu-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@成都](#) |
-| 10.19 | <img src="https://img.shields.io/badge/深圳-Shenzhen-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@深圳](#) |
-| 10.18 | <img src="https://img.shields.io/badge/杭州-Hangzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@杭州](#) |
-| 10.18 | <img src="https://img.shields.io/badge/兰州-Lanzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | [TRAE Friends@兰州](#) |
-| 10.18 | <img src="https://img.shields.io/badge/武汉-Wuhan-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@武汉](#) |
-| 10.12 | <img src="https://img.shields.io/badge/郑州-Zhengzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | [TRAE Friends@郑州](#) |
+| 举办日期 | 活动类型 | 城市 |
+| :--- | :--- | :--- |
+| 10.25 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@大连 |
+| 10.25 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@昆明 |
+| 10.25 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@南京 |
+| 10.19 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@苏州 |
+| 10.19 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@成都 |
+| 10.19 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@深圳 |
+| 10.18 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@杭州 |
+| 10.18 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@兰州 |
+| 10.18 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@武汉 |
+| 10.12 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@郑州 |
 
 
 </details>
 <details><summary><b>9月</b></summary>
 
-| 日期 | 地点 | 活动类型 | 活动名称 |
-| :--- | :--- | :--- | :--- |
-| 09.27 | <img src="https://img.shields.io/badge/杭州-Hangzhou-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@杭州](#) |
-| 09.27 | <img src="https://img.shields.io/badge/兴义-Xingyi-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@兴义](#) |
-| 09.20 | <img src="https://img.shields.io/badge/北京-Beijing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@北京](#) |
-| 09.14 | <img src="https://img.shields.io/badge/西安-Xian-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | [TRAE Friends@西安](#) |
-| 09.07 | <img src="https://img.shields.io/badge/南京-Nanjing-101010?style=flat-square&labelColor=00E599"> | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | [TRAE Friends@南京](#) |
+| 举办日期 | 活动类型 | 城市 |
+| :--- | :--- | :--- |
+| 09.27 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@杭州 |
+| 09.27 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@兴义 |
+| 09.20 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@北京 |
+| 09.14 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@西安 |
+| 09.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@南京 |
 
 </details>
 </div>
