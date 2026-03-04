@@ -15,9 +15,9 @@
 
 <table border="0">
 <tr>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">50+</span><br>🏙️ 覆盖城市</td>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">87+</span><br>🎉 累计场次</td>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">8000+</span><br>👥 参与开发者</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">70+</span><br>🏙️ 覆盖城市</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">100+</span><br>🎉 累计场次</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">10000+</span><br>👥 参与开发者</td>
 </tr>
 </table>
 
