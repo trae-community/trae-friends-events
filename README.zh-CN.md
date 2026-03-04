@@ -5,6 +5,9 @@
 <br>
 
 <a href="https://github.com/trae-community"><img src="https://img.shields.io/badge/GitHub-TRAE_Community-101010?style=for-the-badge&logo=github&logoColor=00E599"></a>
+
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 </p>
 
 
