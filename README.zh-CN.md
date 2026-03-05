@@ -11,16 +11,19 @@
 </p>
 
 
-<b>TRAE Friends</b> 是由 <b>TRAE Fellow</b> 发起的城市社区活动。
-聚焦 <b>AI 编程在真实场景中的实践与交流</b>，连接每一位本地开发者。
+<b>TRAE Friends</b> 是由 <b>TRAE Fellow</b> 发起的城市社区活动，连接本地开发者与 AI 爱好者。<br>
+<br>
+在线下，我们通过 Meetup、Workshop、Demo Day、Hackathon、Family Day 等多种形式，让真实问题、真实项目、真实实践发生。从功能拆解到案例落地，从讨论交流到动手实战，一起探索 “Ship Faster with TRAE” 在不同场景下的应用可能。<br>
+<br>
+在线上，我们每周邀请来自不同领域的嘉宾分享 AI 编程的实战经验，让一次活动的收获不止停留在现场，让经验走出现场，让知识持续流动。
 </p>
 
 
 <table border="0">
 <tr>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">50+</span><br>🏙️ 覆盖城市</td>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">87+</span><br>🎉 累计场次</td>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">8000+</span><br>👥 参与开发者</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">70+</span><br>🏙️ 覆盖城市</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">100+</span><br>🎉 累计场次</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">10000+</span><br>👥 参与开发者</td>
 </tr>
 </table>
 
@@ -32,30 +35,29 @@
 
 <br>
 
-## 🚀 近期亮点
+## 🚀 社区动态
 
-> **不要错过每一场相遇！** 报名活动并加入城市社群获取最新通知。
+### 📅 即将举办
+
+安阳、北京、成都、重庆、大连、东莞、佛山、福州、广州、桂林、杭州、惠州、合肥、济南、济宁、金华、江门、昆明、兰州、廊坊、洛阳、临沂、南宁、南通、宁波、青岛、泉州、上海、深圳、沈阳、苏州、太原、天津、唐山、泰安、武汉、温州、无锡、乌鲁木齐、西安、厦门、兴义、香港、珠海、郑州、中山、遵义、台湾
+
+<br>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="55%" valign="center">
-      <h3>📅 下一场：TRAE Friends Meetup @ 济南</h3>
-      <br>
-      <p>🔥 <b>2月7日，我们济南见！</b> 探索 AI 编程的最新趋势，与本地开发者社区面对面交流。</p>
-      <p>无论你是资深开发者还是 AI 初学者，这里都有属于你的舞台。</p>
-      <br>
-      <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
-        <img src="https://img.shields.io/badge/👉_立即报名参加-Register_Now-00E599?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=101010">
-      </a>
-    </td>
-    <td width="45%" align="center">
-      <!-- Using the square logo as a placeholder or featured image -->
-      <img src="./assets/images/trae-friends-logo.png" width="200" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 229, 153, 0.2);">
-    </td>
-  </tr>
-</table>
+  <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
+    <img src="https://img.shields.io/badge/👉_立即报名参加-Register_Now-00E599?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=101010">
+  </a>
 </div>
+
+<br>
+<br>
+
+### ✅ 已经举办
+
+- [TRAE Friends｜51 场，全国年终社区线下活动回顾](https://mp.weixin.qq.com/s/4SgMlD2G7cQV-4os6C2R3w)
+- [TRAE Friends｜30 城，全国 11 月社区线下活动精彩回顾](https://mp.weixin.qq.com/s/mIrXcqA6v-HNmuRL2RqpQw)
+- [TRAE Friends｜10月城市线下活动精彩回顾](https://mp.weixin.qq.com/s/Y7KjMJmfuMNUy3S1X0k-oQ)
+- [TRAE Friends｜9月城市线下活动精彩回顾](https://mp.weixin.qq.com/s/rPCFkkwJniEexfrbLrLLPQ)
 
 <br>
 <br>
@@ -232,35 +234,35 @@
 <table>
   <tr>
     <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/conference-call.png" width="60"><br>
-        <h3>📢 参加活动</h3>
-        <p>报名参加线下活动，<br>结识志同道合的伙伴。</p>
-        <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
-            <img src="https://img.shields.io/badge/🔍_查找活动-Find_Events-00E599?style=flat-square&labelColor=101010">
+        <img src="https://img.icons8.com/3d-fluency/94/map-marker.png" width="60"><br>
+        <h3>🤝 举办活动</h3>
+        <p>申请成为 TRAE Fellow，<br>发起你所在城市的活动。</p>
+        <a href="https://bytedance.larkoffice.com/share/base/form/shrcnVQfZwbUn5grrMyn4IzZFtb">
+            <img src="https://img.shields.io/badge/🚀_申请举办-Apply_Host-00E599?style=flat-square&labelColor=101010">
         </a>
     </td>
     <td align="center" width="25%">
         <img src="https://img.icons8.com/3d-fluency/94/microphone.png" width="60"><br>
         <h3>🎤 成为讲师</h3>
-        <p>有好的实践案例？<br>申请成为讲师分享经验。</p>
-        <a href="https://lcnziv86vkx6.feishu.cn/wiki/WVPIwD3aQi3Zu0kE7TYc3RyBnTg?from=from_copylink">
+        <p>申请成为 TRAE Expert，<br>分享你的 AI 编程实践。</p>
+        <a href="https://bytedance.larkoffice.com/share/base/form/shrcnqTGDFGiUL8Y2OVFQFIlCVd">
             <img src="https://img.shields.io/badge/📝_提交议题-Submit_Topic-00E599?style=flat-square&labelColor=101010">
-        </a>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/map-marker.png" width="60"><br>
-        <h3>🤝 举办活动</h3>
-        <p>申请成为城市主理人，<br>发起你所在城市的活动。</p>
-        <a href="https://lcnziv86vkx6.feishu.cn/wiki/EldnwYVhgirEhokyDUEcfccfncd?from=from_copylink">
-            <img src="https://img.shields.io/badge/🚀_申请举办-Apply_Host-00E599?style=flat-square&labelColor=101010">
         </a>
     </td>
     <td align="center" width="25%">
         <img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="60"><br>
         <h3>🙋 成为志愿者</h3>
-        <p>加入社区志愿者团队，<br>共同建设 TRAE Friends。</p>
+        <p>加入志愿者团队，<br>让每场活动更精彩。</p>
         <a href="https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp">
             <img src="https://img.shields.io/badge/❤️_加入我们-Join_Us-00E599?style=flat-square&labelColor=101010">
+        </a>
+    </td>
+    <td align="center" width="25%">
+        <img src="https://img.icons8.com/3d-fluency/94/conference-call.png" width="60"><br>
+        <h3>📢 加入社群</h3>
+        <p>获取最新活动信息，<br>参与话题讨论，认识更多伙伴。</p>
+        <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
+            <img src="https://img.shields.io/badge/🔍_查找活动-Find_Events-00E599?style=flat-square&labelColor=101010">
         </a>
     </td>
   </tr>
@@ -280,7 +282,7 @@
 
 
 
-**[Become a contributor →](https://github.com/trae-community/.github/blob/main/CONTRIBUTING.md)**
+**[Become a contributor →](https://github.com/trae-community/.github/blob/main/profile/CONTRIBUTING.zh-CN.md)**
 
 </div>
 

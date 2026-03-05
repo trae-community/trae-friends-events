@@ -11,16 +11,19 @@
 </p>
 
 
-<b>TRAE Friends</b> is a city-based community event initiated by <b>TRAE Fellows</b>.  
-Focusing on <b>the practice and exchange of AI programming in real-world scenarios</b>, connecting developers everywhere.
+<b>TRAE Friends</b> is a city-based community event initiated by <b>TRAE Fellows</b>, connecting local developers and AI enthusiasts.<br>
+<br>
+Offline, we organize Meetups, Workshops, Demo Days, Hackathons, Family Days, and more to bring real problems, real projects, and real practices to life. From feature breakdowns to case studies, from discussions to hands-on coding, we explore the possibilities of "Ship Faster with TRAE" in various scenarios together.<br>
+<br>
+Online, we invite guests from different fields every week to share practical AI programming experiences, ensuring that the takeaways from an event don't just stay on-site, but extend beyond, keeping knowledge flowing.
 </p>
 
 
 <table border="0">
 <tr>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">50+</span><br>🏙️ Cities Covered</td>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">87+</span><br>🎉 Total Events</td>
-<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">8000+</span><br>👥 Developers Engaged</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">70+</span><br>🏙️ Cities Covered</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">100+</span><br>🎉 Total Events</td>
+<td align="center" width="150"><span style="font-size:30px; font-weight:bold; color:#00E599;">10000+</span><br>👥 Developers Engaged</td>
 </tr>
 </table>
 
@@ -32,30 +35,29 @@ Focusing on <b>the practice and exchange of AI programming in real-world scenari
 
 <br>
 
-## 🚀 Recent Highlights
+## 🚀 Community Updates
 
-> **Don't miss any meetup!** Register for events and join city communities for the latest updates.
+### 📅 Upcoming Events
+
+Anyang, Beijing, Chengdu, Chongqing, Dalian, Dongguan, Foshan, Fuzhou, Guangzhou, Guilin, Hangzhou, Huizhou, Hefei, Jinan, Jining, Jinhua, Jiangmen, Kunming, Lanzhou, Langfang, Luoyang, Linyi, Nanning, Nantong, Ningbo, Qingdao, Quanzhou, Shanghai, Shenzhen, Shenyang, Suzhou, Taiyuan, Tianjin, Tangshan, Tai'an, Wuhan, Wenzhou, Wuxi, Urumqi, Xi'an, Xiamen, Xingyi, Hong Kong, Zhuhai, Zhengzhou, Zhongshan, Zunyi, Taiwan
+
+<br>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="55%" valign="center">
-      <h3>📅 Next: TRAE Friends Meetup @ Jinan</h3>
-      <br>
-      <p>🔥 <b>February 7th, see you in Jinan!</b> Explore the latest trends in AI programming and meet local developers face-to-face.</p>
-      <p>Whether you're a seasoned developer or an AI beginner, there's a place for you here.</p>
-      <br>
-      <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
-        <img src="https://img.shields.io/badge/👉_Register_Now-00E599?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=101010">
-      </a>
-    </td>
-    <td width="45%" align="center">
-      <!-- Using the square logo as a placeholder or featured image -->
-      <img src="./assets/images/trae-friends-logo.png" width="200" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 229, 153, 0.2);">
-    </td>
-  </tr>
-</table>
+  <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
+    <img src="https://img.shields.io/badge/👉_Register_Now-00E599?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=101010">
+  </a>
 </div>
+
+<br>
+<br>
+
+### ✅ Past Events
+
+- [TRAE Friends | 51 Events, National Year-End Community Offline Event Recap](https://mp.weixin.qq.com/s/4SgMlD2G7cQV-4os6C2R3w)
+- [TRAE Friends | 30 Cities, November Community Offline Event Recap](https://mp.weixin.qq.com/s/mIrXcqA6v-HNmuRL2RqpQw)
+- [TRAE Friends | October City Offline Event Recap](https://mp.weixin.qq.com/s/Y7KjMJmfuMNUy3S1X0k-oQ)
+- [TRAE Friends | September City Offline Event Recap](https://mp.weixin.qq.com/s/rPCFkkwJniEexfrbLrLLPQ)
 
 <br>
 <br>
@@ -232,35 +234,35 @@ Focusing on <b>the practice and exchange of AI programming in real-world scenari
 <table>
   <tr>
     <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/conference-call.png" width="60"><br>
-        <h3>📢 Attend Events</h3>
-        <p>Register for offline events,<br>meet like-minded developers.</p>
-        <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
-            <img src="https://img.shields.io/badge/🔍_Find_Events-00E599?style=flat-square&labelColor=101010">
+        <img src="https://img.icons8.com/3d-fluency/94/map-marker.png" width="60"><br>
+        <h3>🤝 Host Events</h3>
+        <p>Apply to become a TRAE Fellow,<br>initiate events in your city.</p>
+        <a href="https://bytedance.larkoffice.com/share/base/form/shrcnVQfZwbUn5grrMyn4IzZFtb">
+            <img src="https://img.shields.io/badge/🚀_Apply_to_Host-00E599?style=flat-square&labelColor=101010">
         </a>
     </td>
     <td align="center" width="25%">
         <img src="https://img.icons8.com/3d-fluency/94/microphone.png" width="60"><br>
         <h3>🎤 Become a Speaker</h3>
-        <p>Have great case studies?<br>Apply to be a speaker and share your experience.</p>
-        <a href="https://lcnziv86vkx6.feishu.cn/wiki/WVPIwD3aQi3Zu0kE7TYc3RyBnTg?from=from_copylink">
+        <p>Apply to become a TRAE Expert,<br>share your AI programming practices.</p>
+        <a href="https://bytedance.larkoffice.com/share/base/form/shrcnqTGDFGiUL8Y2OVFQFIlCVd">
             <img src="https://img.shields.io/badge/📝_Submit_Topic-00E599?style=flat-square&labelColor=101010">
-        </a>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.icons8.com/3d-fluency/94/map-marker.png" width="60"><br>
-        <h3>🤝 Host Events</h3>
-        <p>Apply to be a city organizer,<br>start events in your city.</p>
-        <a href="https://lcnziv86vkx6.feishu.cn/wiki/EldnwYVhgirEhokyDUEcfccfncd?from=from_copylink">
-            <img src="https://img.shields.io/badge/🚀_Apply_to_Host-00E599?style=flat-square&labelColor=101010">
         </a>
     </td>
     <td align="center" width="25%">
         <img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="60"><br>
         <h3>🙋 Become a Volunteer</h3>
-        <p>Join the community volunteer team,<br>build TRAE Friends together.</p>
+        <p>Join the volunteer team,<br>make every event even better.</p>
         <a href="https://bytedance.larkoffice.com/share/base/form/shrcnObKgZA2ol66xSj8QcnFuAp">
             <img src="https://img.shields.io/badge/❤️_Join_Us-00E599?style=flat-square&labelColor=101010">
+        </a>
+    </td>
+    <td align="center" width="25%">
+        <img src="https://img.icons8.com/3d-fluency/94/conference-call.png" width="60"><br>
+        <h3>📢 Join Community</h3>
+        <p>Get the latest event info,<br>participate in discussions, and meet more partners.</p>
+        <a href="https://bytedance.larkoffice.com/wiki/VoMcwICLsi9oWgkjygYcu6ROn6L?from=from_copylink">
+            <img src="https://img.shields.io/badge/🔍_Find_Events-00E599?style=flat-square&labelColor=101010">
         </a>
     </td>
   </tr>
@@ -280,7 +282,7 @@ If you'd like to add or update event content, please submit via PR.
 
 
 
-**[Become a contributor →](https://github.com/trae-community/.github/blob/main/CONTRIBUTING.md)**
+**[Become a contributor →](https://github.com/trae-community/.github/blob/main/profile/CONTRIBUTING.md)**
 
 </div>
 
