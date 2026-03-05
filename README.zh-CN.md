@@ -75,6 +75,49 @@
 | 举办日期 | 活动类型 | 城市 |
 | :--- | :--- | :--- |
 | 02.09 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@合肥 |
+| 02.08 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@中山 |
+| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@东莞 |
+| 02.07 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@商丘 |
+| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@清远 |
+| 02.07 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@唐山 |
+| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@济南 |
+| 02.05 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@北京 |
+| 02.01 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@廊坊 |
+| 02.01 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@太原 |
+
+</details>
+<details><summary><b>1月</b></summary>
+
+| 举办日期 | 活动类型 | 城市 |
+| :--- | :--- | :--- |
+| 01.31 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@无锡 |
+| 01.31 | <img src="https://img.shields.io/badge/Open Mic-FFD54F?style=flat-square"> | TRAE Friends@郑州 |
+| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@沈阳 |
+| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@武汉 |
+| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@上海 |
+| 01.25 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@佛山 |
+| 01.25 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@惠州 |
+| 01.25 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@哈尔滨 |
+| 01.25 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@深圳 |
+| 01.24 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@沈阳 |
+| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@南宁 |
+| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@南京 |
+| 01.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@广州 |
+| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@东莞 |
+| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@西宁 |
+| 01.17 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@厦门 |
+| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@百色 |
+| 01.17 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@成都 |
+| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@石家庄 |
+| 01.17 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@金华 |
+| 01.11 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@北京 |
+| 01.11 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@长沙 |
+| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@杭州 |
+| 01.11 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@合肥 |
+| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@中山 |
+| 01.10 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@宁波 |
+| 01.10 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@济南 |
+| 01.10 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@常州 |
 
 </details>
 </div>
