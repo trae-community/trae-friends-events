@@ -11,11 +11,11 @@
 </p>
 
 
-<b>TRAE Friends</b> is a city-based community event initiated by <b>TRAE Fellows</b>, connecting local developers and AI enthusiasts.<br>
+<b>TRAE Friends</b> is a city-based community event initiated by <b>TRAE Fellows</b>, <b>connecting local developers and AI enthusiasts</b>.<br>
 <br>
-Offline, we organize Meetups, Workshops, Demo Days, Hackathons, Family Days, and more to bring real problems, real projects, and real practices to life. From feature breakdowns to case studies, from discussions to hands-on coding, we explore the possibilities of "Ship Faster with TRAE" in various scenarios together.<br>
+<b>Offline</b>, we organize Meetups, Workshops, Demo Days, Hackathons, Family Days, and more to bring <b>real problems, real projects, and real practices</b> to life. From feature breakdowns to case studies, from discussions to hands-on coding, we explore the possibilities of <b>"Ship Faster with TRAE"</b> in various scenarios together.<br>
 <br>
-Online, we invite guests from different fields every week to share practical AI programming experiences, ensuring that the takeaways from an event don't just stay on-site, but extend beyond, keeping knowledge flowing.
+<b>Online</b>, we invite guests from different fields every week to <b>share practical AI programming experiences</b>, ensuring that the takeaways from an event don't just stay on-site, but extend beyond, keeping knowledge flowing.
 </p>
 
 
@@ -64,61 +64,17 @@ Anyang, Beijing, Chengdu, Chongqing, Dalian, Dongguan, Foshan, Fuzhou, Guangzhou
 
 ## ⏪ Event Timeline 
 
+<!-- TIMELINE_START -->
 <div align="center">
 
 <img src="https://img.shields.io/badge/2026-101010?style=for-the-badge&logo=google-calendar&logoColor=00E599" height="28">
 <br><br>
-
 
 <details open><summary><b>February</b></summary>
 
 | Date | Event Type | City |
 | :--- | :--- | :--- |
 | 02.09 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Hefei |
-| 02.08 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@Zhongshan |
-| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Dongguan |
-| 02.07 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@Shangqiu |
-| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Qingyuan |
-| 02.07 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Tangshan |
-| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Jinan |
-| 02.05 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Beijing |
-| 02.01 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Langfang |
-| 02.01 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Taiyuan |
-
-
-</details>
-<details><summary><b>January</b></summary>
-
-| Date | Event Type | City |
-| :--- | :--- | :--- |
-| 01.31 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Wuxi |
-| 01.31 | <img src="https://img.shields.io/badge/Open Mic-FFD54F?style=flat-square"> | TRAE Friends@Zhengzhou |
-| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Shenyang |
-| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Wuhan |
-| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Shanghai |
-| 01.25 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Foshan |
-| 01.25 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Huizhou |
-| 01.25 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Harbin |
-| 01.25 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@Shenzhen |
-| 01.24 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@Shenyang |
-| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Nanning |
-| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Nanjing |
-| 01.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Guangzhou |
-| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@Dongguan |
-| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@Xining |
-| 01.17 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@Xiamen |
-| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Baise |
-| 01.17 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Chengdu |
-| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Shijiazhuang |
-| 01.17 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Jinhua |
-| 01.11 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Beijing |
-| 01.11 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@Changsha |
-| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Hangzhou |
-| 01.11 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@Hefei |
-| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Zhongshan |
-| 01.10 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Ningbo |
-| 01.10 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Jinan |
-| 01.10 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@Changzhou |
 
 </details>
 </div>
@@ -134,7 +90,6 @@ Anyang, Beijing, Chengdu, Chongqing, Dalian, Dongguan, Foshan, Fuzhou, Guangzhou
 <!-- Timeline Header -->
 <img src="https://img.shields.io/badge/2025-101010?style=for-the-badge&logo=google-calendar&logoColor=00E599" height="28">
 <br><br>
-
 
 <details><summary><b>December</b></summary>
 
@@ -154,7 +109,6 @@ Anyang, Beijing, Chengdu, Chongqing, Dalian, Dongguan, Foshan, Fuzhou, Guangzhou
 | 12.27 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Urumqi |
 | 12.14 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Beijing |
 | 12.13 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Changchun |
-
 
 </details>
 <details><summary><b>November</b></summary>
@@ -192,7 +146,6 @@ Anyang, Beijing, Chengdu, Chongqing, Dalian, Dongguan, Foshan, Fuzhou, Guangzhou
 | 11.15 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@Jinan |
 | 11.14 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@Shanghai |
 
-
 </details>
 <details><summary><b>October</b></summary>
 
@@ -208,7 +161,6 @@ Anyang, Beijing, Chengdu, Chongqing, Dalian, Dongguan, Foshan, Fuzhou, Guangzhou
 | 10.18 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@Lanzhou |
 | 10.18 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@Wuhan |
 | 10.12 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@Zhengzhou |
-
 
 </details>
 <details><summary><b>September</b></summary>
@@ -227,6 +179,7 @@ Anyang, Beijing, Chengdu, Chongqing, Dalian, Dongguan, Foshan, Fuzhou, Guangzhou
 </details>
 
 <br>
+<!-- TIMELINE_END -->
 
 ## 🌟 Get Involved
 
@@ -288,13 +241,10 @@ If you'd like to add or update event content, please submit via PR.
 
 
 
-
 <div align="center">
 
-
-
-<div align="center">
-<p style="color: #666;">by the TRAE Community</p>
 </div>
+
+
 
 </div>

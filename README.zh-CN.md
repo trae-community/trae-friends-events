@@ -11,11 +11,11 @@
 </p>
 
 
-<b>TRAE Friends</b> 是由 <b>TRAE Fellow</b> 发起的城市社区活动，连接本地开发者与 AI 爱好者。<br>
+<b>TRAE Friends</b> 是由 <b>TRAE Fellow</b> 发起的城市社区活动，<b>连接本地开发者与 AI 爱好者</b>。<br>
 <br>
-在线下，我们通过 Meetup、Workshop、Demo Day、Hackathon、Family Day 等多种形式，让真实问题、真实项目、真实实践发生。从功能拆解到案例落地，从讨论交流到动手实战，一起探索 “Ship Faster with TRAE” 在不同场景下的应用可能。<br>
+<b>在线下</b>，我们通过 Meetup、Workshop、Demo Day、Hackathon、Family Day 等多种形式，让<b>真实问题、真实项目、真实实践</b>发生。从功能拆解到案例落地，从讨论交流到动手实战，一起探索 <b>“Ship Faster with TRAE”</b> 在不同场景下的应用可能。<br>
 <br>
-在线上，我们每周邀请来自不同领域的嘉宾分享 AI 编程的实战经验，让一次活动的收获不止停留在现场，让经验走出现场，让知识持续流动。
+<b>在线上</b>，我们每周邀请来自不同领域的嘉宾<b>分享 AI 编程的实战经验</b>，让一次活动的收获不止停留在现场，让经验走出现场，让知识持续流动。
 </p>
 
 
@@ -64,61 +64,17 @@
 
 ## ⏪ 活动时间轴 
 
+<!-- TIMELINE_START -->
 <div align="center">
 
 <img src="https://img.shields.io/badge/2026-101010?style=for-the-badge&logo=google-calendar&logoColor=00E599" height="28">
 <br><br>
-
 
 <details open><summary><b>2月</b></summary>
 
 | 举办日期 | 活动类型 | 城市 |
 | :--- | :--- | :--- |
 | 02.09 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@合肥 |
-| 02.08 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@中山 |
-| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@东莞 |
-| 02.07 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@商丘 |
-| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@清远 |
-| 02.07 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@唐山 |
-| 02.07 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@济南 |
-| 02.05 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@北京 |
-| 02.01 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@廊坊 |
-| 02.01 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@太原 |
-
-
-</details>
-<details><summary><b>1月</b></summary>
-
-| 举办日期 | 活动类型 | 城市 |
-| :--- | :--- | :--- |
-| 01.31 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@无锡 |
-| 01.31 | <img src="https://img.shields.io/badge/Open Mic-FFD54F?style=flat-square"> | TRAE Friends@郑州 |
-| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@沈阳 |
-| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@武汉 |
-| 01.31 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@上海 |
-| 01.25 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@佛山 |
-| 01.25 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@惠州 |
-| 01.25 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@哈尔滨 |
-| 01.25 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@深圳 |
-| 01.24 | <img src="https://img.shields.io/badge/Family Day-F06292?style=flat-square"> | TRAE Friends@沈阳 |
-| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@南宁 |
-| 01.24 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@南京 |
-| 01.23 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@广州 |
-| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@东莞 |
-| 01.18 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@西宁 |
-| 01.17 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@厦门 |
-| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@百色 |
-| 01.17 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@成都 |
-| 01.17 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@石家庄 |
-| 01.17 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@金华 |
-| 01.11 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@北京 |
-| 01.11 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@长沙 |
-| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@杭州 |
-| 01.11 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@合肥 |
-| 01.11 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@中山 |
-| 01.10 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@宁波 |
-| 01.10 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@济南 |
-| 01.10 | <img src="https://img.shields.io/badge/Workshop-FFB74D?style=flat-square"> | TRAE Friends@常州 |
 
 </details>
 </div>
@@ -134,7 +90,6 @@
 <!-- Timeline Header -->
 <img src="https://img.shields.io/badge/2025-101010?style=for-the-badge&logo=google-calendar&logoColor=00E599" height="28">
 <br><br>
-
 
 <details><summary><b>12月</b></summary>
 
@@ -154,7 +109,6 @@
 | 12.27 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@乌鲁木齐 |
 | 12.14 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@北京 |
 | 12.13 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@长春 |
-
 
 </details>
 <details><summary><b>11月</b></summary>
@@ -192,7 +146,6 @@
 | 11.15 | <img src="https://img.shields.io/badge/Meetup-8C9EFF?style=flat-square"> | TRAE Friends@济南 |
 | 11.14 | <img src="https://img.shields.io/badge/Demoday-4DB6AC?style=flat-square"> | TRAE Friends@上海 |
 
-
 </details>
 <details><summary><b>10月</b></summary>
 
@@ -208,7 +161,6 @@
 | 10.18 | <img src="https://img.shields.io/badge/Talk-FFD54F?style=flat-square"> | TRAE Friends@兰州 |
 | 10.18 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@武汉 |
 | 10.12 | <img src="https://img.shields.io/badge/Hackathon-4DD0E1?style=flat-square"> | TRAE Friends@郑州 |
-
 
 </details>
 <details><summary><b>9月</b></summary>
@@ -227,6 +179,7 @@
 </details>
 
 <br>
+<!-- TIMELINE_END -->
 
 ## 🌟 参与其中
 
@@ -290,10 +243,6 @@
 
 <div align="center">
 
-
-
-<div align="center">
-<p style="color: #666;">by the TRAE Community</p>
 </div>
 
 </div>
